@@ -52,7 +52,14 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction/introduction", 
+        {
+          "group": "产品简介"，
+          “pages”: [
+            "introduction/introduction",
+            "introduction/functions",
+            "introduction/advantages"
+          ]
+        },
         "introduction", 
         "quickstart", 
         "development"]

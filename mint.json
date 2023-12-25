@@ -51,7 +51,11 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["test", "introduction", "quickstart", "development"]
+      "pages": [
+        "introduction/introduction", 
+        "introduction", 
+        "quickstart", 
+        "development"]
     },
     {
       "group": "Essentials",

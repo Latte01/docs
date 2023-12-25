@@ -53,7 +53,7 @@
       "group": "Get Started",
       "pages": [
         {
-          "group": "产品简介"，
+          "group": "产品简介",
           “pages”: [
             "introduction/introduction",
             "introduction/functions",
@@ -62,7 +62,8 @@
         },
         "introduction", 
         "quickstart", 
-        "development"]
+        "development"
+      ]
     },
     {
       "group": "Essentials",

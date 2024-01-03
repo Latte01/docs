@@ -19,8 +19,7 @@
 
   ],
   "topbarCtaButton": {
-    "name": "",
-    "url": ""
+    "type": "github"
   },
   "tabs": [
 
